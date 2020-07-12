@@ -11,13 +11,17 @@ var employees = ["Virginia", "Jason", "Christine", "Melissa", "Nancy", "Kathleen
 
 
 
-// 2. How many DIFFERENT names will you need to print? In other words, how many unique, individual names are there in the company?
-
-
-
-
-// 3. Almost forgot! Hamadou also needs you to print name tags for everyone for the holiday party.
+// 2. Almost forgot! Hamadou also needs you to print name tags for everyone for the holiday party.
 //    For every name in the employees list, print out a string that says "Hello! My name is ______"
+
+
+
+
+
+
+// 3. How many DIFFERENT names will you need to print? In other words, how many unique, individual names are there in the company?
+
+
 
 
 
